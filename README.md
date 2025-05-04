@@ -1,6 +1,6 @@
 # python-basic-training
 
-##ChatGPTにPythonの基礎を網羅できる問題集を作成させてみた
+##　ChatGPTにPythonの基礎を網羅できる問題集を作成させてみた
 
 🐍 Python 基礎問題集（網羅版）
 
