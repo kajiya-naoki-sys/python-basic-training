@@ -1,0 +1,9 @@
+services:
+ src:
+  build: .
+  container_name: python_training
+  tty: true
+  stdin_open: true
+  volumes:
+    - .:/src
+  working_dir: /src
