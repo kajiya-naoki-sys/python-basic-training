@@ -12,5 +12,5 @@ print(A & B)
 #差集合
 print("差集合：", end='')
 print(A - B | B - A)
-print("　　　　", end='')
+print("差集合：", end='')
 print((A | B) - (A & B))
